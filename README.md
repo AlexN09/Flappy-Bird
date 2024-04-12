@@ -1,3 +1,4 @@
+![image](https://github.com/AlexNO9/Main/clipboard_image_f2201d0b4a47165c)
 # Flappy Bird Clone in Unity
 
 This repository contains a Flappy Bird clone developed using Unity. The project aims to recreate the engaging and challenging gameplay of the original Flappy Bird game, where players control a bird, navigating through a series of pipes by tapping the screen to keep the bird afloat.

@@ -18,7 +18,7 @@ public class BorderCollision : MonoBehaviour
     {
         if (BirdMovement.defeat == false) 
         {
-            gameObject.transform.position = new Vector3(gameObject.transform.position.x - 3 * Time.deltaTime, gameObject.transform.position.y, 1);
+            gameObject.transform.position = new Vector3(gameObject.transform.position.x - 3 * Time.deltaTime, gameObject.transform.position.y, -1);
         }
       
     }
